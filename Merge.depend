@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1651026393 source:c:\users\aldan\desktop\facu\programacion2022\2022\practica\merge\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"merge.h"
+
+1651026415 c:\users\aldan\desktop\facu\programacion2022\2022\practica\merge\merge.h
+
+1651026414 source:c:\users\aldan\desktop\facu\programacion2022\2022\practica\merge\merge.c
+	"merge.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
